@@ -1,0 +1,6 @@
+{
+  "name": "Euro Children Academy",
+  "description": "Premium School ERP & Informational Website for Euro Children Academy Sr. Sec. School, Barrod",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
